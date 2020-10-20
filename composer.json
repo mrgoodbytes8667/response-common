@@ -1,0 +1,21 @@
+{
+    "name": "mrgoodbytes8667/response-common",
+    "type": "library",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "authors": [
+        {
+            "name": "MrGoodBytes",
+            "email": "bytes@goodbytes.live"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Bytes\\Response\\Common\\": "src/"
+        }
+    }
+}
