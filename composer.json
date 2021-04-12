@@ -1,6 +1,8 @@
 {
     "name": "mrgoodbytes8667/response-common",
     "type": "library",
+    "description": "Common interfaces needed for the various mrgoodbytes8667/*-bundle client/response bundles",
+    "license": "CC-BY-NC-4.0",
     "require": {
         "php": "^7.4 || ^8.0"
     },
