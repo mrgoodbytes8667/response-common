@@ -9,6 +9,8 @@ use DateInterval;
 /**
  * Interface AccessTokenInterface
  * @package Bytes\Response\Common\Interfaces
+ *
+ * @deprecated v0.0.2 Use mrgoodbytes8667/response-bundle instead
  */
 interface AccessTokenInterface
 {
